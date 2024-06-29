@@ -1,3 +1,3 @@
-# template-prettier-eslint-repo
+# basic-informational-site
 
-Basic ESLint and Prettier repo
+Basic NodeJS server serving up different HTML pages depending on URL
